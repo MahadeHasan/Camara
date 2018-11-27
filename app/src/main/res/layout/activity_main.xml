@@ -11,6 +11,7 @@
      android:layout_width="match_parent"
      android:layout_height="match_parent"
      android:layout_above="@id/capture_btn"
+
      />
 
     <Button
@@ -22,5 +23,5 @@
         android:layout_marginBottom="0dp"
         android:background="#910dd9"
         android:text="capture"
-        android:textColor="#ffffff" />
+        android:textColor="#cccccc" />
 </RelativeLayout>
